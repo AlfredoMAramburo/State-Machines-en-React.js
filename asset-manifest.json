@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/State-Machines-en-React.js/static/css/main.05f6b48c.css",
+    "main.js": "/State-Machines-en-React.js/static/js/main.ffff0656.js",
+    "static/js/787.501cc626.chunk.js": "/State-Machines-en-React.js/static/js/787.501cc626.chunk.js",
+    "static/media/background-travel-2.jpg": "/State-Machines-en-React.js/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/State-Machines-en-React.js/index.html",
+    "main.05f6b48c.css.map": "/State-Machines-en-React.js/static/css/main.05f6b48c.css.map",
+    "main.ffff0656.js.map": "/State-Machines-en-React.js/static/js/main.ffff0656.js.map",
+    "787.501cc626.chunk.js.map": "/State-Machines-en-React.js/static/js/787.501cc626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05f6b48c.css",
+    "static/js/main.ffff0656.js"
+  ]
+}
